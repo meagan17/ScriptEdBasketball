@@ -1,5 +1,5 @@
 function promptForPlayerName(playerone){
-   playerone= prompt("Enter name");
+   playerone= prompt(playerone + " enter name");
    if(playerone.length >15){
        alert ("Wow thats a long name");
    }
