@@ -1,3 +1,21 @@
 body {
     font-family: Helvetica;
 }
+
+#player-one-score{
+    font-style: italic;
+    color: blue;
+}
+
+#player-two-score{
+    font-style: oblique;
+    color: red;
+}
+
+.player-one-name{
+    font-style: italic;
+}
+
+.player-two-name{
+    font-style: italic;
+}
